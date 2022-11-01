@@ -336,7 +336,7 @@ MonoBehaviour:
     m_Bits: 64
   radius: 2
   bashAbleObj: {fileID: 0}
-  bashPower: 2000
+  bashPower: 5000
   bashTime: 0.1
   arrow: {fileID: 1249456171}
   dashingVelocity: 14
